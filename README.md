@@ -9,7 +9,7 @@ Visit link: http://localhost:3000/api/employees/
 
 Routes: </br>
 - GET all employees: </br>
- http://localhost:3000/api/employees
+ http://localhost:3000/api/employees </br>
 *Pagination setting: define query in request. </br>
 example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4
 
