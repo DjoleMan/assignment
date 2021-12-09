@@ -1,6 +1,6 @@
 Simple CRUD application with NodeJS, Express and MongoDB for managing employees.
 
-Run populateDB.js to populate database with data for testing.
+Run populateDB.js to populate database with data for testing:
 node populateDB.js
 
 Run app:
