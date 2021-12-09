@@ -1,5 +1,5 @@
 Simple CRUD application with NodeJS, Express and MongoDB for managing employees.</br>
-Make sure you have installed all required npm packages. See package.json file.
+Make sure you have installed all required npm packages. See dependencies in package.json file.
 
 Run populateDB.js to populate database with data for testing:
 <pre>node populateDB.js </pre></br>
