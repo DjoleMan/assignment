@@ -33,9 +33,9 @@ example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4 </br>
     "email_address": "marko@gmail.com",</br>
     "phone_number": "1234567",</br>
     "home_address": {</br>
-        "city": "Beograd",</br>
-        "zip_code": "11000",</br>
-        "address_1": "Bulevar Nikole Tesle 50",</br>
+       __"city": "Beograd",</br>
+       __"zip_code": "11000",</br>
+       __"address_1": "Bulevar Nikole Tesle 50",</br>
     },</br>
     "date_of_birth": "1991/02/25"</br>
 }</br>
