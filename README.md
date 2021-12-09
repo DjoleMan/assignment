@@ -7,4 +7,4 @@ Run app:
 node app.js
 
 Pagination setting: define query in request.
-example: http://localhost:3000/api/employees/?pageSize=2&pageNumber=4
+Example: http://localhost:3000/api/employees/?pageSize=2&pageNumber=4
