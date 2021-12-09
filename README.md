@@ -28,14 +28,16 @@ example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4 </br>
   </br></br>
   Example of valid request body: </br>
   </br>
-  {</br>
-    "name": "Marko",</br>
-    "email_address": "marko@gmail.com",</br>
-    "phone_number": "1234567",</br>
-    "home_address": {</br>
-       _"city": "Beograd",</br>
-       _"zip_code": "11000",</br>
-       _"address_1": "Bulevar Nikole Tesle 50",</br>
-    },</br>
-    "date_of_birth": "1991/02/25"</br>
-}</br>
+  <pre>
+  {
+    "name": "Marko",
+    "email_address": "marko@gmail.com",
+    "phone_number": "1234567",
+    "home_address": {
+       "city": "Beograd",
+       "zip_code": "11000",
+       "address_1": "Bulevar Nikole Tesle 50",
+    },
+    "date_of_birth": "1991/02/25"
+}
+</pre>
