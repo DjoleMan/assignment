@@ -5,7 +5,6 @@ node populateDB.js
 
 Run app: </br>
 node app.js </br>
-Visit link: http://localhost:3000/api/employees/
 
 Routes: </br>
 - GET all employees: </br>
