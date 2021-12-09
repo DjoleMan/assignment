@@ -4,8 +4,8 @@ const { Employee, validate } = require("../model/employee");
 const validateId = require("../middleware/validateId");
 
 router.get("/", async (req, res) => {
-  const pageSize = 5;
-  const pageNumber = 1;
+  const pageSize = parseInt(req.query.pageSize);
+  const pageNumber = parseInt(req.query.pageNumber);
 
   const employees = await Employee.find()
     .skip((pageNumber - 1) * pageSize)
