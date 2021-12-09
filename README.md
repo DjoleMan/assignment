@@ -10,8 +10,8 @@ Run app:
 Routes: </br>
 - GET all employees: </br>
  http://localhost:3000/api/employees </br>
-*Pagination setting: define query in request. </br>
-example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4 </br>
+<pre>*Pagination setting: define query in request. </br>
+example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4</pre> </br>
 
 - GET employee by ID(provide valid ID):</br>
  http://localhost:3000/api/employees/61b1dc035ed03c92ef1a5d13</br>
