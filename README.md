@@ -11,16 +11,17 @@ Routes: </br>
 - GET all employees: </br>
  http://localhost:3000/api/employees </br>
 *Pagination setting: define query in request. </br>
-example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4
+example http://localhost:3000/api/employees/?pageSize=2&pageNumber=4 </br>
 
-- GET employee by ID:
- example: http://localhost:3000/api/employees/61b1dc035ed03c92ef1a5d13
- </br>
+- GET employee by ID:</br>
+ http://localhost:3000/api/employees/61b1dc035ed03c92ef1a5d13</br>
  
  - POST empoyee(provide valid request body) </br>
    http://localhost:3000/api/employees </br>
- - PUT employee(provide valid request body)
+   
+ - PUT employee(provide valid request body) </br>
    http://localhost:3000/api/employees/61b1dc035ed03c92ef1a5d13 </br>
- - DELETE employee
+   
+ - DELETE employee</br>
   http://localhost:3000/api/employees/61b1dc035ed03c92ef1a5d13
   
