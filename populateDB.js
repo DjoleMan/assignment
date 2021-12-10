@@ -142,3 +142,4 @@ async function populateDb() {
 }
 
 populateDb();
+process.exit(1)
