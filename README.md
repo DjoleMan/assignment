@@ -4,6 +4,9 @@ Make sure you have installed all required npm packages. Look for dependencies in
 Run populateDB.js to populate database with data for testing:
 <pre>node populateDB.js </pre></br>
  
+Install dependencies:
+<pre>npm install</pre></br>
+
 Run app: 
 <pre>node app.js</pre>
 
@@ -37,7 +40,7 @@ example: http://localhost:3000/api/employees/?pageSize=2&pageNumber=4 </br>
     "home_address": {
        "city": "Beograd",
        "zip_code": "11000",
-       "address_1": "Bulevar Nikole Tesle 50",
+       "address_1": "Bulevar Nikole Tesle 50"
     },
     "date_of_birth": "1991/02/25"
 }
