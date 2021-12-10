@@ -54,7 +54,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Trnska 10",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/19",
   },
   {
     name: "Jovan",
@@ -65,7 +65,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Dobracina 5",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/10",
   },
   {
     name: "Luka",
@@ -76,7 +76,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Cerska 4",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/11",
   },
   {
     name: "Milica",
@@ -87,7 +87,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Jevremova 10",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/12",
   },
   {
     name: "Jelena",
@@ -98,7 +98,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Dubljanska 6",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/13",
   },
   {
     name: "Jovana",
@@ -109,7 +109,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Timocka 10",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/14",
   },
   {
     name: "Stefan",
@@ -120,7 +120,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Karnegijeva 9",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/15",
   },
   {
     name: "Kosta",
@@ -131,7 +131,7 @@ const employees = [
       zip_code: "11000",
       address_1: "Sumatovacka 10",
     },
-    date_of_birth: "1963/06/18",
+    date_of_birth: "1963/06/16",
   },
 ];
 
